@@ -1,0 +1,11 @@
+.PitchDetector-pitches {
+  display: flex;
+  direction: row;
+  margin: 0 auto;
+}
+
+.PitchDetector-pitch {
+  margin: 0 5px;
+  background: #CCF;
+  width: 50px;
+}
